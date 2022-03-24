@@ -25,10 +25,10 @@ ul, ol {
 
 /* links */
 
-a:link {color: blue}
-a:visited {color: purple}
-a:hover {color: orange}
-a:active {color: darkgreen}
+a:link {color: blue, underline}
+a:visited {color: purple, underline}
+a:hover {color: orange, underline}
+a:active {color: darkgreen, underline}
 
 
 /* all text color */
