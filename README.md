@@ -1,1 +1,1 @@
-https://www.kierancalavan.com
+https://kierancalavan.com/
