@@ -85,3 +85,14 @@ footer {
   text-align: center;
   background-color: #bcbcbc;
 }
+
+/* cards */
+.card {
+  height: 50px;
+  max-height: 60px;
+}
+
+.card-deck {
+  height: 50px;
+  max-height: 60px;
+}
