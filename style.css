@@ -913,8 +913,8 @@ html,
           --spacing: 0.25rem;
         }
         #image01 .frame {
-          width: 100vw;
-          height: 18.75rem !important;
+          width: 75vw;
+          height: 75vw !important;
         }
         #image01 img {
           height: 100% !important;
@@ -1075,7 +1075,7 @@ html,
           --spacing: 0.25rem;
         }
         #image01 .frame {
-          height: 15rem !important;
+          height: 22rem !important;
         }
       }
       @media (max-width: 360px) {
@@ -1085,7 +1085,7 @@ html,
           --spacing: 0.21875rem;
         }
         #image01 .frame {
-          height: 13.125rem !important;
+          height: 18rem !important;
         }
         #container07 > .wrapper > .inner {
           --gutters: 3rem;
