@@ -1075,7 +1075,7 @@ html,
           --spacing: 0.25rem;
         }
         #image01 .frame {
-          height: 22rem !important;
+          height: 20rem !important;
         }
       }
       @media (max-width: 360px) {
